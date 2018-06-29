@@ -2,6 +2,7 @@ plugins {
     id 'com.neva.fork'
     id 'com.cognifide.aem.package'
     id 'com.cognifide.aem.instance'
+    id 'eclipse'
 }
 
 description = 'Example'
